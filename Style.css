@@ -1,0 +1,26 @@
+body 
+ {
+	background: orange;
+ }
+
+#pagename
+ {
+	color: green;
+	text-align: center;
+	font-family: Buxton Sketch;
+	font-size: 33px;	
+ }
+
+canvas
+ {
+	display: block;
+	margin: 10px auto 0px;
+ }
+
+#Enemy, #stats,#Player, #Mouse
+ {
+	display: block;
+	margin: -600px auto 0px;
+ }
+
+
